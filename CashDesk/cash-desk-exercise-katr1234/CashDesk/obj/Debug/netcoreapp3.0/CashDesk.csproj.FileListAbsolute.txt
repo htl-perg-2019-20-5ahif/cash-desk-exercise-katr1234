@@ -1,0 +1,10 @@
+D:\HTL Perg\5AHIF\C#\Homework\04\cash-desk-exercise-katr1234\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.deps.json
+D:\HTL Perg\5AHIF\C#\Homework\04\cash-desk-exercise-katr1234\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.dll
+D:\HTL Perg\5AHIF\C#\Homework\04\cash-desk-exercise-katr1234\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.pdb
+D:\HTL Perg\5AHIF\C#\Homework\04\cash-desk-exercise-katr1234\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.csprojAssemblyReference.cache
+D:\HTL Perg\5AHIF\C#\Homework\04\cash-desk-exercise-katr1234\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.AssemblyInfoInputs.cache
+D:\HTL Perg\5AHIF\C#\Homework\04\cash-desk-exercise-katr1234\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.AssemblyInfo.cs
+D:\HTL Perg\5AHIF\C#\Homework\04\cash-desk-exercise-katr1234\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.dll
+D:\HTL Perg\5AHIF\C#\Homework\04\cash-desk-exercise-katr1234\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.pdb
+D:\HTL Perg\5AHIF\C#\Homework\04\cash-desk-exercise-katr1234\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.runtimeconfig.json
+D:\HTL Perg\5AHIF\C#\Homework\04\cash-desk-exercise-katr1234\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.runtimeconfig.dev.json
